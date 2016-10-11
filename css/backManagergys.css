@@ -1,0 +1,72 @@
+
+body{margin: 0;
+    padding: 0;
+    font-family:"微软雅黑";
+    color: #333333;
+    font-size: 14px;
+}
+img{
+    border: none;
+    padding: 0;
+}
+/*导航条部分*/
+.navbar-default .navbar-brand {
+    font-size: 14px;
+    color: #000;
+}
+.navbar-default .navbar-header .lj{
+    display: inline-block;
+    color:#999999;
+    text-decoration: none;
+    font-size: 12px;
+    padding-top: 16px;
+}
+.navbar-default .navbar-header .lj:hover{
+    color:#9d9d9d;
+}
+.navbar-default .navbar-header .navbar-brand:hover{
+    color: #000;
+}
+.navbar-default .navbar-nav{
+   padding-right: 60px;
+}
+.navbar-default .navbar-nav .dropdown>a{
+    color:#000;
+}
+#gys .navbar-default {
+    background:#f9f9f9;
+    height: 20px;
+}
+.navbar-default  .navbar-nav .dropdown .dropdown-toggle{
+    color: #000;
+}
+#form_s .form-group{
+    border: 1px solid #EDEDED;
+    padding: 10px 30px;
+}
+#form_s .form-group .col-md-4{
+    margin-bottom: 5px;
+}
+#form_s .form-group .col-md-4 label{
+    display: inline-block;
+    float: left;
+    line-height: 250%;
+    margin-right: 30px;
+    color:#999999;
+}
+#form_s .form-group .col-md-4 .form-control{
+    display: inline-block;
+    width:250px;
+    float:left;
+}
+#data_tab tr td nav .pagination{
+    margin: 0 25%;
+
+}
+#footer{
+    text-align: center;
+
+}
+#footer .col-md-12{
+    padding: 30px
+}
